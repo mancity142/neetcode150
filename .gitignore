@@ -1,0 +1,14 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore the entire JDK/JRE installation folders inside your project
+java-1.8.0-openjdk*/
+oracleJdk-26/
+
+oracleJdk-26/
+oraclejdk-26/
+
+
+
+# Ignore VS Code specific configurations (optional but recommended)
+.vscode/
